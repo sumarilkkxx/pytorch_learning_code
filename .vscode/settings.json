@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "argmax",
         "optim",
         "tensorboard",
         "torchtyping",
