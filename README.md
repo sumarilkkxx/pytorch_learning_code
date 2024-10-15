@@ -1,1 +1,2 @@
 # pytorch_learning_code
+该项目为小土堆Pytorch深度学习快速入门课程的学习代码，便于新手快速上手配置Pytorch环境和熟悉Pytorch的使用方法。原视频链接为：https://www.bilibili.com/video/BV1hE411t7RN?spm_id_from=333.788.videopod.episodes&vd_source=178c6fd35235b13d2c4c3f8e8631dbd6
