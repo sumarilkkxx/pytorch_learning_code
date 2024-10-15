@@ -21,3 +21,6 @@ models_train/model_8.pth filter=lfs diff=lfs merge=lfs -text
 models_train/model_10.pth filter=lfs diff=lfs merge=lfs -text
 models_train/model_2.pth filter=lfs diff=lfs merge=lfs -text
 models_train/model_3.pth filter=lfs diff=lfs merge=lfs -text
+models/*pth filter=lfs diff=lfs merge=lfs -text
+models/.*pth filter=lfs diff=lfs merge=lfs -text
+models_train/.*pth filter=lfs diff=lfs merge=lfs -text
